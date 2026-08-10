@@ -1,8 +1,8 @@
-# 01 - Fundamentos ReactJS (TypeScript)
+# 01 - React.js Fundamentals (TypeScript)
 
-Exercício de estudo do módulo de React.js do Ignite (Rocketseat), turma 2022. É a versão em TypeScript do projeto "Fundamentos ReactJS": o mesmo feed de posts/comentários (Header, Sidebar, Post, Comment, Avatar), agora tipando props e componentes com TS.
+Study exercise for the React.js module of Ignite (Rocketseat), 2022 class. This is the TypeScript version of the "React.js Fundamentals" project: the same post/comment feed (Header, Sidebar, Post, Comment, Avatar), now typing props and components with TS.
 
-## Tecnologias
+## Technologies
 
 - React
 - TypeScript
@@ -11,7 +11,7 @@ Exercício de estudo do módulo de React.js do Ignite (Rocketseat), turma 2022. 
 - phosphor-react
 - CSS Modules
 
-## Como rodar
+## How to run
 
 ```bash
 npm install
